@@ -32,9 +32,6 @@ nav {
       color: #BD1E23;
       font-weight: bold;
       text-decoration: none;
-      &:hover {
-
-      }
     }
   }
 }
@@ -103,6 +100,10 @@ a.link-b {
       margin: 20px 0;
     }
   }
+}
+
+.container {
+  margin-top: 20px;
 }
 
 #pin_show {
